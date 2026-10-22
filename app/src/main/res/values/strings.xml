@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">FormDK</string>
+    <string name="title_register">DANG KY TAI KHOAN</string>
+    <string name="hint_full_name">Ho va ten</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mat khau</string>
+    <string name="hint_phone">So dien thoai</string>
+    <string name="btn_register">DANG KY NGAY</string>
+    <string name="err_name_empty">Ho ten khong duoc de trong</string>
+    <string name="err_email_empty">Email khong duoc de trong</string>
+    <string name="err_email_invalid">Email khong dung dinh dang</string>
+    <string name="err_password_short">Mat khau phai co it nhat 8 ky tu</string>
+    <string name="err_phone_invalid">So dien thoai phai gom 10 so, bat dau bang 0</string>
+    <string name="msg_register_success">Dang ky thanh cong!</string>
+    <string name="msg_register_fail">Vui long kiem tra lai cac o bi loi</string>
 </resources>
