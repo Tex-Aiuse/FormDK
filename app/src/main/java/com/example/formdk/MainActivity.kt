@@ -27,9 +27,6 @@ class MainActivity : AppCompatActivity()
             submitForm();
         }
 
-        binding.btnToDetail.setOnClickListener {
-            startActivity(Intent(this, DetailActivity::class.java));
-        }
     }
 
     private fun validateName(): Boolean

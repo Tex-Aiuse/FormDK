@@ -79,13 +79,5 @@
             android:textColor="@color/text_white"
             android:backgroundTint="@color/accent_green" />
 
-        <Button
-            android:id="@+id/btnToDetail"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/btn_go_detail"
-            android:textColor="@color/text_white"
-            android:backgroundTint="@color/accent_green" />
-
     </LinearLayout>
 </ScrollView>
