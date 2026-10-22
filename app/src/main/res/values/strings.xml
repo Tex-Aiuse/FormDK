@@ -13,4 +13,14 @@
     <string name="err_phone_invalid">So dien thoai phai gom 10 so, bat dau bang 0</string>
     <string name="msg_register_success">Dang ky thanh cong!</string>
     <string name="msg_register_fail">Vui long kiem tra lai cac o bi loi</string>
+
+    <string name="hint_student_id">Ma sinh vien</string>
+    <string name="hint_class">Lop</string>
+    <string name="btn_go_detail">XEM TRANG CHI TIET</string>
+    <string name="err_name_invalid">Ho ten chi gom chu cai va khoang trang</string>
+    <string name="err_student_id_invalid">MSV gom 10 den 13 chu so</string>
+    <string name="err_class_invalid">Lop khong hop le (vi du: 24T3, 22CT111)</string>
+    <string name="title_detail">THONG TIN DANG KY</string>
+    <string name="btn_back_register">QUAY LAI TRANG DANG KY</string>
+    <string name="msg_no_data">Chua co du lieu</string>
 </resources>
